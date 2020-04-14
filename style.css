@@ -32,12 +32,18 @@
     text-align: right;
     font-family: 'Times New Roman', Times, serif;
     font-size: 18px;
+    padding-top: 20px;
 }
 .body2{
     font-family: 'Times New Roman', Times, serif;
     font-size: 18px;
 }
-.copyright{
+.body3{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    padding-top: 20px;
+}
+    .copyright{
     padding-top: 40px;
     margin-top: 200px;
     background-color: orange;
