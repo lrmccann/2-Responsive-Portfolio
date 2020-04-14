@@ -1,0 +1,32 @@
+.porttop{
+    border-left: solid navy;
+    border-top: solid navy;
+    border-right: solid navy;
+    border-bottom: dashed orange;
+    border-width: 8px;
+    margin-top: 60px;
+    height: 150px;
+}
+.PORT{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    padding-left: 40px;
+    padding-top: 40px;
+    padding-bottom: 10px;
+    float: left;
+}
+.row1{
+    border-left:solid navy;
+    border-right: solid navy;
+    border-width: 8px;
+    height: 160px;
+}
+.img1{
+    height: 20px;
+    width: 20px;
+}
+.img2{
+    height: 20px;
+    width: 20px;
+    border-style: solid;
+}

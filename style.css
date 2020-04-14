@@ -1,0 +1,52 @@
+.abootme{
+    border-left: solid navy;
+    border-top: solid navy;
+    border-right: solid navy;
+    border-bottom: dashed orange;
+    border-width: 8px;
+    margin-top: 60px;
+    height: 150px;
+}
+.abtme{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    padding-left: 40px;
+    padding-top: 40px;
+    padding-bottom: 10px;
+    float: left;
+}
+.myPic{
+    width: 220px;
+    height: 220px;
+    float: left;
+    padding-right: 5px;
+}
+.infocont{
+    border-left:solid navy;
+    border-right: solid navy;
+    border-bottom: solid navy;
+    border-width: 8px;
+    height: 600px;
+}
+.body1{
+    text-align: right;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+.body2{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+.copyright{
+    padding-top: 40px;
+    margin-top: 200px;
+    background-color: orange;
+    border:solid navy;
+    column-width: 100%;
+}
+.cpytext{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    text-align: center;
+    padding: 20px 20px 20px 20px;
+}
