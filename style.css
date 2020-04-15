@@ -20,6 +20,7 @@
     height: 220px;
     float: left;
     padding-right: 5px;
+    padding-top: 10px;
 }
 .infocont{
     border-left:solid navy;
