@@ -1,0 +1,77 @@
+.porttop{
+    border-left: solid navy;
+    border-top: solid navy;
+    border-right: solid navy;
+    border-bottom: dashed orange;
+    border-width: 8px;
+    margin-top: 10%;
+    height: 150px;
+}
+/* This is the porfolio text */
+.PORT{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    padding-left: 40px;
+    padding-top: 40px;
+    float: left;
+}
+/* End portfolio text */
+
+.imgs{
+    height: 150px;
+    width: 150px;
+    border: solid orange 2px;
+}
+.pictures{
+    border-bottom: navy solid 8px;
+    border-left: navy solid 8px;
+    border-right: navy solid 8px;
+    height: 750px;
+    width: 400px;
+}
+/* Images */
+.first{
+    float: left;
+    margin-bottom: 5%;
+    margin-top: 5%;
+}
+.second{
+    float: left;
+    margin-bottom: 5%;
+    margin-top: 5%;
+}
+.third{
+    float: left;
+    margin-bottom: 5%;
+}
+.fourth{
+    float: left;
+    margin-bottom: 5%;
+}
+.fifth{
+    float: left;
+    margin-bottom: 5%;
+}
+.sixth{
+    float: left;
+    margin-bottom: 5%;
+}
+/* End images */
+
+/* links */
+.link{
+    color: black;
+}
+
+.cpytext{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    text-align: center;
+    padding: 20px 20px 20px 20px;
+}
+.copyright{
+    margin-top: 10%;
+    padding-top: 50px;
+    background-color: orange;
+    border:solid navy; 
+}
